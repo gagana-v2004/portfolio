@@ -1,2 +1,2 @@
 # portfolio
-Gagana V — Software Engineer Portfolio
+Gagana V — Python Full Stack Developer
